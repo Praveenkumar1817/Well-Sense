@@ -1,0 +1,6 @@
+farm_id,soil_moisture,temperature,humidity,rain_forecast,crop_type,growth_stage,soil_type,land_size,crop_type_encoded,growth_stage_encoded,soil_type_encoded,predicted_water_demand,priority_score
+1,0.45,28.0,65,0,rice,vegetative,loam,10,24,5,1,270.6967443389256,109.54869773557026
+2,0.5,30.0,70,1,cotton,flowering,sandy,15,11,0,2,231.91650262663913,94.38660105065566
+3,0.6,27.5,60,1,maize,maturity,clay,20,15,3,0,183.87313086410217,75.70925234564088
+4,0.55,29.0,75,0,banana,harvest,loam,25,1,2,1,338.9051372274809,138.33205489099237
+5,0.65,31.0,80,1,sugarcane,grain_filling,silt,30,27,1,3,489.66726731419743,199.06690692567898

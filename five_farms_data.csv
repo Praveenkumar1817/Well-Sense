@@ -1,0 +1,6 @@
+farm_id,soil_moisture,temperature,humidity,rain_forecast,crop_type,growth_stage,soil_type,land_size
+1,0.45,28.0,65,0,rice,vegetative,loam,10
+2,0.5,30.0,70,1,cotton,flowering,sandy,15
+3,0.6,27.5,60,1,maize,maturity,clay,20
+4,0.55,29.0,75,0,banana,harvest,loam,25
+5,0.65,31.0,80,1,sugarcane,grain_filling,silt,30
